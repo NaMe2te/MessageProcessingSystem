@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessingSystem.Application", "MessageProcessingSystem.Application\MessageProcessingSystem.Application.csproj", "{BCB9D869-669E-486B-AF45-DD12AACEE32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessingSystem.DataAccess", "MessageProcessingSystem.DataAccess\MessageProcessingSystem.DataAccess.csproj", "{A115BD3E-DCD2-4FF4-A02F-2C01B1E5BACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProcessingSystem.UI", "MessageProcessingSystem.UI\MessageProcessingSystem.UI.csproj", "{72C09BF0-0310-4C8E-8A68-93C5E48F0190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB9D869-669E-486B-AF45-DD12AACEE32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB9D869-669E-486B-AF45-DD12AACEE32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB9D869-669E-486B-AF45-DD12AACEE32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB9D869-669E-486B-AF45-DD12AACEE32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A115BD3E-DCD2-4FF4-A02F-2C01B1E5BACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A115BD3E-DCD2-4FF4-A02F-2C01B1E5BACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A115BD3E-DCD2-4FF4-A02F-2C01B1E5BACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A115BD3E-DCD2-4FF4-A02F-2C01B1E5BACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C09BF0-0310-4C8E-8A68-93C5E48F0190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C09BF0-0310-4C8E-8A68-93C5E48F0190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C09BF0-0310-4C8E-8A68-93C5E48F0190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C09BF0-0310-4C8E-8A68-93C5E48F0190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
