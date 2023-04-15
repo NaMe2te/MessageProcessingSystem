@@ -1,6 +1,6 @@
 # MessageProcessingSystem
 
-> MessageProcessingSystem это трехслойная архитектура, использующая на уровне DataAccess EF CORE 6.0 для доступа к базе данных Sqlite.
+> MessageProcessingSystem - серверное приложение, использующая на уровне DataAccess EF CORE 6.0 для доступа к базе данных Sqlite.
 > Также используется Swagger и Postman на для тестирования api
 
 MessageProcessingSystem - это примитивная система обработки сообщений.
